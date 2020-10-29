@@ -5,8 +5,8 @@
       <router-link to="/about">About</router-link>
     </div>
     <router-view/> -->
-    <ProdctListOne :products="products" />
-    <ProductListTwo :products="products" />
+    <ProdctListOne />
+    <ProductListTwo />
   </div>
 </template>
 
